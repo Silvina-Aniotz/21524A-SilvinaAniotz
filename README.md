@@ -1,26 +1,13 @@
-# Argentina Programa 4.0
+PROYECTO INTEGRADOR 
 
-## Servidor Express
-
-![Express Nodejs](https://miro.medium.com/v2/resize:fit:1400/1*f7ztMaMM0etsFHpEfkdiwA.png)
-
-Hola
 Repositorio desarrollado como examen integrador correspondiente al Programa 4.0 y Epica Sapem.
 
-Descargar los siguientes links.
+1-Descargar los siguientes links.
 
-[Express Nodejs](https://miro.medium.com/v2/resize:fit:1400/1*f7ztMaMM0etsFHpEfkdiwA.png) 
+PRIMER LUGAR :  Node.js
+SEGUNDO LUGAR : XAMPP          
 
-
-[EJS](https://cdn.hashnode.com/res/hashnode/image/upload/v1669904581074/eiOU4pInF.png) 
-
-
-[XAMPP](https://www.sysadminsdecuba.com/wp-content/uploads/2015/08/xampp-logo.jpg)
-
-PRIMER LUGAR           SEGUNDO LUGAR    TERCER LUGAR
-| Express Node.js |     | EJS  |          | XAMPP |
-
-GUIA DE INSTALACION Y EJECUCION
+2-Guia de instalacion y ejecucion 
 
 Seguir los pasos detallados debajo:
 
@@ -28,9 +15,9 @@ Seguir los pasos detallados debajo:
 
 -Instalar las dependencias con el siguiente comando:
 
-   npm i
+   npm i o npm install 
 
-Configurar la base de datos MySQL:
+3-Configurar la base de datos MySQL:
 
 Cree una base de datos llamada forodba
 
@@ -53,6 +40,6 @@ Crear la tabla de la base de datos para los posteos con el nombre "publicaciones
   fecha_publicacion = date  
   firma_autor = text
 
-Ejecute node app.js y acceda de manera predeterminada a la aplicación en su navegador web en el PORT=6060 .env : http://localhost:6363.
+Ejecute node app.js y acceda de manera predeterminada a la aplicación en su navegador web en el PORT=6363 .env : http://localhost:6363.
 
 S.A.
